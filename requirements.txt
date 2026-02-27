@@ -1,0 +1,16 @@
+click==8.1.7
+# Keep crewai at version 0.130.0
+# Other package versions are flexible and can be changed
+# Only change crewai version if there are critical dependency conflicts that cannot be resolved by other means
+crewai==0.130.0
+crewai-tools==0.47.1
+fastapi==0.110.3
+Jinja2==3.1.4
+jsonschema==4.22.0
+langchain-core==0.1.52
+langsmith==0.1.67
+pip==24.0
+protobuf==4.25.3
+pypdf==5.1.0
+python-dotenv==1.0.1
+uvicorn==0.29.0
